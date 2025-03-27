@@ -11,19 +11,19 @@
 Splash                    |   
 :-------------------------:
 
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)|
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)
 
 
 Onboarding Screen        |
 :-------------------------:
 
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)|
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)
 
 
 Authentication Screen|
 :-------------------------:
 
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)
+![](https://github.com/user-attachments/assets/ea7f8050-cdf1-45bd-9f56-4f0ac07c69ce)
 
 
 Home Screen              |
@@ -94,4 +94,6 @@ Home Screen              |
      |    |   └──scale_animation.dart
      └────📂controller
           └──food_controller.dart
+
+
 
