@@ -10,14 +10,14 @@
 
 Onboding                    |   SignUp Screen          |  Country Screen |  LogIn screen 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png)?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_8950749659373738947.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6041161094151534765.jpg)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg?raw=true)
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation%20(1).png?raw=true)
 
 
 ## Screenshots (Light mode)
 
 Home Screen         |   All Product View Screen           |  Order Card Screen       |  confirm order screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6119407009071195624.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_8400753724536336574.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_5058362537592697515.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160303_2181217312802007082.jpg?raw=true)
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation%20(1).png?raw=true)
 
 
 ## 🚀 Features :
