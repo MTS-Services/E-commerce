@@ -14,25 +14,25 @@ Splash                    |
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)
 
 
-Onboarding Screen        |
+| Onboarding Screen        |
 :-------------------------:
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)
 
 
-Authentication Screen|
+| Authentication Screen |
 :-------------------------:
 
 ![](https://github.com/user-attachments/assets/ea7f8050-cdf1-45bd-9f56-4f0ac07c69ce)
 
 
-Home Screen              |
-:-------------------------:
+ |        Home Screen      |
+|:-------------------------:|
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)
 
 
-  Categories           |  Checkout     |  Submit Order
+  |         Categories       |          Checkout         |       Submit Order       |    
                                                     
   |:-------------------------:|:-------------------------:|:-------------------------:
 
@@ -41,7 +41,7 @@ Home Screen              |
 
 
 
-   Review & Ratings        |  
+ |  Review & Ratings        |  
  :-------------------------:
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation%20(1).png?raw=true)
