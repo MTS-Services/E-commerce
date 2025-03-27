@@ -8,9 +8,18 @@
 
 ## Screenshots (Light mode)
 
-Onboding                    |   SignUp Screen          |  Country Screen |  LogIn screen 
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation%20(1).png?raw=true)
+Splash                    |   Country Screen |  LogIn screen 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)|
+Onboarding Screen       | 
+:-------------------------:
+|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)|
+
+SignUp Screen          | 
+:-------------------------:
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)
+
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation%20(1).png?raw=true)
 
 
 ## Screenshots (Light mode)
