@@ -78,7 +78,7 @@ Splash                    |
      |    │───📂screen
      |    |   |──└──📂auth
      |    |   |      └──📂login
-                         └──📂widget
+     |    |   |          └──📂widget
      |    |   |              |──food_detail_screen.dart
      |    |   |              |──food_detail_screen.dart
      |    |   |──food_detail_screen.dart
