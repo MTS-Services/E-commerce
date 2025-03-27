@@ -32,7 +32,7 @@ Splash                    |
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)
 
 
-  | Categories,Checkout,Submit Order |                                                     
+  | Categories, Checkout, Submit Order |                                                     
   | :-------------------------: |
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation%20(1).png?raw=true)
