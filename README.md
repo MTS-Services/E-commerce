@@ -1,4 +1,4 @@
-# food_app
+# Ecommerces_app
 <p align="center">
   <img src="https://img.shields.io/github/stars/SinaSys/flutter_japanese_restaurant_app">
   <img src="https://img.shields.io/github/forks/SinaSys/flutter_japanese_restaurant_app">
@@ -6,27 +6,44 @@
   <img src="https://img.shields.io/github/v/release/SinaSys/flutter_japanese_restaurant_app?label=Release&logo=semantic-release">
   <img src="https://img.shields.io/github/last-commit/SinaSys/flutter_japanese_restaurant_app?label=Last%20commit">
 
-## Screenshots (Light mode)
+## App Screenshots
 
-Splash                    |   Country Screen |  LogIn screen 
-:-------------------------:|:-------------------------:|:-------------------------:
+Splash                    |   
+:-------------------------:|
+
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Green%20and%20Black%20Modern%20Sales%20Marketing%20Presentation.png?raw=true)|
+
+
 Onboarding Screen       | 
 :-------------------------:
+
 |![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)|
+
 
 SignUp Screen          | 
 :-------------------------:
+
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)
+
+
+Home Screen         |
+:-------------------------:
+
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)|
+
+
+  Categories           |  Checkout     |  Submit Order
+|:-------------------------:|:-------------------------:|:-------------------------:
+
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation%20(1).png?raw=true)
 
 
-## Screenshots (Light mode)
 
-Home Screen         |   All Product View Screen           |  Order Card Screen       |  confirm order screen
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)|![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation%20(1).png?raw=true)
+Review & Ratings     |
+:-------------------------:
+
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation%20(1).png?raw=true)
 
 
 ## 🚀 Features :
