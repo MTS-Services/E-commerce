@@ -72,30 +72,24 @@ Splash                    |
  └───📂src
      │────📂model
      │    │──bottom_navigation_item.dart
-     |    │──food.dart
-     |    └──food_category.dart
+     |    │──clothes.dart
+     |    └──clothes_category.dart
      └────📂view
      |    │───📂screen
-     |    |   |──└──📂auth
-     |    |   |      └──📂login
-     |    |   |          └──📂widget
-     |    |   |              |──food_detail_screen.dart
-     |    |   |              |──food_detail_screen.dart
-     |    |   |──food_detail_screen.dart
-     |    |   |──food_list_screen.dart
-     |    |   |──home_screen.dart
-     |    |   └──profile_screen.dart
      |    |   |──cart_screen.dart
      |    |   |──favorite_screen.dart
-     |    |   |──food_detail_screen.dart
-     |    |   |──food_list_screen.dart
+     |    |   |──product_detail_screen.dart
+     |    |   |──clothes_list_screen.dart
      |    |   |──home_screen.dart
      |    |   └──profile_screen.dart
-     |    │───📂widgets
-     │    |   |──my_custom_button.dart
-     │    |   |──my_custom_icon.dart
-     │    |   |──my_custom_text.dart
-     │    |   |──rating_bar_indicator.dart
+     |    │───📂widget
+     │    |   |──counter_button.dart
+     │    |   |──custom_page_route.dart
+     │    |   |──empty_widget.dart
+     │    |   |──fade_animation.dart
+     │    |   |──clothes_list_view.dart
+     │    |   |──page_transition.dart
+     |    |   └──scale_animation.dart
      └────📂controller
           └──ui_controller.dart
 
