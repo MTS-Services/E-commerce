@@ -26,22 +26,23 @@ SignUp Screen
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)
 
 
-                                                                  Home Screen         
-                                                           :-------------------------:
+Home Screen         
+:-------------------------:
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)|
 
 
-                                                    Categories           |  Checkout     |  Submit Order
-                                     |:-------------------------:|:-------------------------:|:-------------------------:
+  Categories           |  Checkout     |  Submit Order
+                                                    
+  |:-------------------------:|:-------------------------:|:-------------------------:
 
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation%20(1).png?raw=true)
 
 
 
-                                                                     Review & Ratings     
-                                                                :-------------------------:
+   Review & Ratings     
+ :-------------------------:
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20Pink%20Gradient%20Mobile%20Application%20Presentation%20(1).png?raw=true)
 
