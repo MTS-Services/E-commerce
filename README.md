@@ -20,7 +20,7 @@ Onboarding Screen        |
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Neon%20gradient%20mobile%20mockup%20instagram%20post%20.png?raw=true)|
 
 
-SignUp Screen           |
+Authentication Screen|
 :-------------------------:
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Gray%20and%20Black%20Minimalist%20Furniture%20Promotion%20Mockup%20Instagram%20Post.png?raw=true)
@@ -29,7 +29,7 @@ SignUp Screen           |
 Home Screen              |
 :-------------------------:
 
-![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)|
+![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)
 
 
   Categories           |  Checkout     |  Submit Order
@@ -50,14 +50,11 @@ Home Screen              |
 ## 🚀 Features :
 ```
 • Bottom navigation animation when switch from one screen to another
-• Fade animation for food items in detail screen and list views
-• Delete single food item from cart by swipe item to right side
-• Automatically delete single item from cart by set its value to zero
-• Increase or Decrease quantity for each food item in cart screen
-• Display food list on the food list screen
+• Review & Ratings
+• Order 
+• Cart 
+• Display clothes list on the home  screen
 • Real-time calculation of total price in the cart screen
-• Select quantity for each item on detail screen
-• Filter foods by category
 • State management with GetX 
 ```
 
@@ -87,7 +84,7 @@ Home Screen              |
      |    |   |──food_list_screen.dart
      |    |   |──home_screen.dart
      |    |   └──profile_screen.dart
-     |    │───📂widget
+     |    │───📂widgets
      │    |   |──counter_button.dart
      │    |   |──custom_page_route.dart
      │    |   |──empty_widget.dart
