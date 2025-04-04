@@ -26,7 +26,7 @@ Splash                    |
 ![](https://github.com/user-attachments/assets/ea7f8050-cdf1-45bd-9f56-4f0ac07c69ce)
 
 
- |        Home Screen      |
+ |   Home Screen, Shop  |
 |:-------------------------:|
 
 ![](https://github.com/MTS-Services/E-commerce/blob/main/screenshots/Purple%20App%20Phone%20Mockup%20Sales%20Marketing%20Video%20Presentation.png?raw=true)
